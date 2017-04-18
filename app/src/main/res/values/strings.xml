@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProjetoFinalListaDeTarefas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="project_name">Tasks Management</string>
+    <string name="developed_by">Developed By: Victoria Ventura</string>
+    <string name="app_version_1_0">App Version: 1.0</string>
+    <string name="login_name">Username</string>
+    <string name="password_name">Password</string>
+    <string name="keep_connected">Keep Connected</string>
+    <string name="do_login">Login</string>
+    <string name="do_logout">Logout</string>
+    <string name="about_this_app">About this app</string>
+    <string name="new_task_name">Task name</string>
+    <string name="new_task_description">Task description</string>
+    <string name="new_category">Category</string>
+    <string name="btn_create">Create</string>
+
+</resources>
